@@ -1,0 +1,121 @@
+.nav {
+    float: right;
+  }
+  
+.aNav {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+    font-size: 110%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    color: #1d3023;
+    text-decoration: none;
+  }
+
+  .aNav:hover {
+    background-color: rgb(234, 234, 234);
+  }
+
+.mainNav {
+    float: left;
+}
+
+.navBar {
+    margin-right: 4%;
+}
+
+.back {
+    text-align: center;
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 110%;
+    font-weight: 500;
+    text-decoration: none;
+    color: #1d3023;
+}
+
+.back:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    font-size: 1rem;
+}
+
+ol {
+    font-size: 1.4rem;
+}
+
+.backPic {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 3.6rem;
+    font-weight: 800;
+}
+
+h3 {
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 2rem; 
+    color: #1d3023;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 1.4rem; 
+    font-weight: bold;
+    line-height: 0%;
+}
+
+p {
+    font-size: 1.4rem;
+}
+
+span {
+    margin-left: 4%;
+    font-size: 1.4rem;
+}
+
+.indent {
+    margin-left: 8%;
+    font-size: 1.4rem;
+}
+
+.subhead {
+    color: #ffffff;
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 800;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+}
+
+.main_body {
+    margin-left:20%;
+    margin-right: 20%;
+}
+
+.underline {
+    text-decoration: underline;
+    font-weight: bold;
+}
